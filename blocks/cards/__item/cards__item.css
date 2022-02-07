@@ -1,0 +1,7 @@
+.cards__item {
+  width: 240px;
+  display: flex;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
