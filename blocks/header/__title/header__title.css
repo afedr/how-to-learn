@@ -3,9 +3,9 @@
   align-items: center;
   position: relative;
   width: 730px;
-  margin: auto 64px auto;
+  margin-left: 64px;
   line-height: 96px;
   font-size: 102px;
-  font-weight: bolder;
+  font-weight: bold;
   z-index: 2;
 }

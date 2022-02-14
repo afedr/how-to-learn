@@ -1,4 +1,6 @@
 .footer__column-link {
+  display: flex;
+  align-items: center;
   color: white;
   text-decoration: none;
   transition: opacity 0.5s ease-out 1s;
